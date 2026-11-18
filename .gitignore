@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Large / licensed files that should not be committed
+data/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+lightning_logs/
